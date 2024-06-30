@@ -11,7 +11,6 @@ MoodTracker is a basic Solidity smart contract designed to demonstrate the use o
 
 ### Installing
 
-* Clone this repository or copy the `MoodTracker.sol` file to your local machine.
 * Ensure you have access to the Remix IDE (https://remix.ethereum.org/) or any Ethereum development environment.
 
 ### Executing program
