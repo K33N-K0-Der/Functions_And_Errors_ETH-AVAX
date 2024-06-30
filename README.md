@@ -34,7 +34,7 @@ Copy
 Any advise for common problems or issues.
 If you receive a "Only owner can set mood" error, ensure you're using the account that deployed the contract.
 If you can't update the mood, wait for at least an hour between updates.
-Copy
+
 ## Authors
 
 Abhishek Singh
