@@ -1,5 +1,5 @@
 # Functions_And_Errors_ETH-AVAX
-markdownCopy# MoodTracker Smart Contract
+# MoodTracker Smart Contract
 
 A simple Ethereum smart contract for tracking and managing mood states.
 
